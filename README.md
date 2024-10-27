@@ -29,7 +29,7 @@ The Hospital Management System is a Java-based application that allows users to 
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SudipPatra35/Hospital-Management-System.git)
    cd HospitalManagementSystem
 
 2. **Create MySQL Database**:
