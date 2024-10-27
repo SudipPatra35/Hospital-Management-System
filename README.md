@@ -29,7 +29,7 @@ The Hospital Management System is a Java-based application that allows users to 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/SudipPatra35/Hospital-Management-System.git)
+   git clone https://github.com/SudipPatra35/Hospital-Management-System.git
    cd HospitalManagementSystem
 
 2. **Create MySQL Database**:
@@ -72,19 +72,24 @@ javac HospitalManagementSystem/*.java
 
 Use the following command to run the application, ensuring to include the classpath for the MySQL connector:
 
-On macOS/Linux:
+- **On macOS/Linux:**
+  
     java -cp ".:lib/mysql-connector-java-x.x.x.jar" HospitalManagementSystem.HosManSys
 
-On Windows:
+- **On Windows:**
+  
     java -cp ".;lib/mysql-connector-java-x.x.x.jar" HospitalManagementSystem.HosManSys
 
 
-**Usage**
+- **Usage**
+  
 After running the application, you will be presented with a menu to choose different operations. Follow the prompts to add patients, view patients or doctors, and book appointments.
 
-**Contributing**
+- **Contributing**
+  
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 
-**Author**
+- **Author**
+  
 Sudip Patra
